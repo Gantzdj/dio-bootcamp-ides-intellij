@@ -9,7 +9,7 @@ public class dio {
         Gato gato = new Gato();
         System.out.println(gato);
 
-        Livro livro1 = new Livro("O Problema dos 3 corpos",300)
+        Livro livro1 = new Livro("O Problema dos 3 corpos",300);
         System.out.println(livro1);
 
         // int a = 7;
